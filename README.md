@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @tuvafalk
 - 👀 I’m interested in reading, video games and nature
-- 🌱 I’m currently learning java script and java
+- 🌱 I’m currently studying interaction design
+- ✨ I know most popular languages and can andapt to new onew fast
 - 💞️ I’m looking to collaborate on small video game projects 
 - 📫 How to reach me, via email tuva.falk@gmail.com
 
